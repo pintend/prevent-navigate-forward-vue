@@ -1,0 +1,1 @@
+import{c as a,a as o,b as s,u as r,o as c}from"./index-DWBBkqUm.js";const n={class:"p-10"},u={__name:"Page",setup(p){const t=window.history;return(i,e)=>(c(),a("p",n,[o(" Now Navigate "),s("button",{onClick:e[0]||(e[0]=_=>r(t).back()),class:"bg-gray-200 px-2 py-1"}," Back ")]))}};export{u as default};
